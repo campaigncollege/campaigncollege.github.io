@@ -1,3 +1,3 @@
 campaigncollege.github.io
 =========================
-Campaign College is a hosted LMS & Repository of Open Educational Resources about Digital Political Campaigning, Election Modeling, & Predictive Analytics.
+Github Pages Site for Campaign College an an open education resouce for participants of political campaigns focusing on digital tactics, data analysis, finance & management.
